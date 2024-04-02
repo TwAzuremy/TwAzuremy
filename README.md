@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4091FF&random=false&width=435&lines=Hi%F0%9F%91%8B+I'm+Azuremy)](https://git.io/typing-svg)
 
-I'm a computer science **student** from **China** and am studying at university.
+I'm a computer science **student** from **China** and who is studying at university.
 
 <br>
 
