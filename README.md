@@ -23,7 +23,7 @@ I'm a computer science **student** from **China** and am studying at university.
 
 #### 🏃‍♂️ Active status
 
-[![TwAzuremy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TwAzuremy&theme=github-compact)](https://github.com/TwAzuremy/github-readme-activity-graph)
+[![TwAzuremy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TwAzuremy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TwAzuremy&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=1024)](https://git.io/streak-stats)
 
