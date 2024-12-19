@@ -15,7 +15,8 @@ I'm a computer science **student** from **China** who is studying at university.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwAzuremy&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwAzuremy&layout=compact&theme=dracula) 
+
 
 
 #### 💻 Github Stats
