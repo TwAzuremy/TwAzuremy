@@ -11,11 +11,11 @@ I'm a computer science **student** from **China** who is studying at university.
 - 👨‍💻 I work using: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 - 🛏️ I don't have any hobbies. If I have to say, **sleeping** is my hobby.
 - 🌟 I pay more attention to the **appearance and practicality** of a tool, although I'm not a design major.
-- 📬 How to reach me: [twazuremy@qq.com](twazuremy@qq.com)
+- 📬 How to reach me: [twazuremy@qq.com](twazuremy@qq.com) or [azuremytw@gmail.com](azuremytw@gmail.com)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwAzuremy&layout=compact&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwAzuremy) 
 
 
 #### 💻 Github Stats
